@@ -1,4 +1,4 @@
-# Alium Swap Lib
+# Pancake Swap Lib
 
 
 Solidity libraries that are shared across Uniswap contracts. These libraries are focused on safety and gas efficiency.
@@ -18,5 +18,5 @@ Install this in another project via `yarn add @uniswap/lib`
 Then import the contracts via:
 
 ```solidity
-import "@aliumswap/alium-swap-lib/contracts/access/Ownable.sol"; 
+import "@pancakeswap/pancake-swap-lib/contracts/access/Ownable.sol"; 
 ```
